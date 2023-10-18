@@ -15,6 +15,7 @@
 - RecyclerView e Adapters para exibição das listas com desempenho e flexibilidade
 - Persistência de dados local com Shared Preferences
 - Uso da biblioteca Retrofit para comunicação com API
+
 ![image](https://github.com/KyleMSJ/desafio-github-search/assets/72525167/e9be9d53-5372-49b9-9019-0d4e61d3b6e1)
 
 
